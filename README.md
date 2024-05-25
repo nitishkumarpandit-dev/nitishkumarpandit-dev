@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitish</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" style="border-radius:100px;" width="400" src="/tech.gif"/>
 
 <p align="left"> <a href="https://x.com/NitishP11978606“ target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -12,6 +13,8 @@
 - 💬 Ask me about **React, Next.js, JavaScript**
 
 - 📫 Reach me by email **nitishkumarpandit.dev@gmail.com**
+
+
 
 ## 💻 Languages and tools:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
@@ -28,9 +31,12 @@
 ![Node Js](https://img.shields.io/badge/nodejs-%23E34F26.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## 📊 My Statistics:
-[![Nitish’s GitHub stats](https://github-readme-stats.vercel.app/api?username=nitishkumarpandit-dev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitishkumarpandit-dev&show_icons=true&locale=en&layout=compact" alt="nitishkumarpandit-dev" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitishkumarpandit-dev&show_icons=true&locale=en" alt="nitishkumarpandit-dev" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitishkumarpandit-dev&" alt="nitishkumarpandit-dev" /></p>
 
-<a href="https://app.daily.dev/nitishkumarpandit"><img src="https://api.daily.dev/devcards/v2/0zofi3zZdn9Ix5n6haQwk.png?r=9ex&type=wide" width="652" alt="Nitish Kumar Pandit's Dev Card"/></a>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=nitishkumarpandit-dev&show_icons=true&locale=en" alt="nitishkumarpandit-dev" />
+
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nitishkumarpandit-dev&" alt="nitishkumarpandit-dev" />
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitishkumarpandit-dev&show_icons=true&locale=en&layout=compact" alt="nitishkumarpandit-dev" /></p>
+
+
+
