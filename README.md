@@ -8,9 +8,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nitishkumarpandit-dev](https://github.com/nitishkumarpandit-dev)
-
-- 💬 Ask me about **React, Next.js, JavaScript**
+- 💬 Ask me about **Frontend Development**
 
 - 📫 Reach me by email **nitishkumarpandit.dev@gmail.com**
 
